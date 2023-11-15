@@ -1,0 +1,30 @@
+_repo: The-jungle-folk-of-Africa_71970
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milligan, Robert H.
+    gutenberg_agent_id: '56479'
+    url: http://www.gutenberg.org/2009/agents/56479
+description: ''
+gutenberg_issued: '2023-10-27'
+identifiers:
+  gutenberg: '71970'
+  lccn: 08025385
+language: en
+pgterms:marc904: https://archive.org/details/junglefolkofafri00mill
+pgterms:marc905: 20220408121753milligan
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bFleming H. Revell company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, West -- Description and travel'
+- !lcsh 'Missions -- Africa'
+- !lcc 'DT'
+- GITenberg
+title: The jungle folk of Africa
+url: http://www.gutenberg.org/ebooks/71970
